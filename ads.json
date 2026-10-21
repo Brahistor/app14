@@ -20,26 +20,21 @@
       "sub6mSku": "com.dark.animewallpapers6",
       "sub12mSku": "com.dark.animewallpapers12"
     },
-    "ads": {
-      "showAds": false,
-      "clicksBeforeInterstitial": 3,
-      "autoShowIntervalSeconds": 45,
-      "banner": {
-        "enabled": false,
-        "size": "BANNER",
-        "position": "BOTTOM",
-        "autoLoad": true
-      },
-      "levelplay": {
-        "enabled": false,
-        "appKey": "25898f09d",
-        "interstitialAdUnitId": "69bekc868i4qqj7w",
-        "rewardedAdUnitId": "slkvus5gn0aik4an",
-        "bannerAdUnitId": "fsnu8d83hapd9dh7",
-        "interstitialPlacement": "Main_Menu",
-        "rewardedPlacement": "Achievements",
-        "bannerPlacement": "Home_Screen"
-      }
+   "ads": {
+  "showAds": true,
+  "appodealKey": "PUT_YOUR_APPODEAL_APP_KEY_HERE",
+  "clicksBeforeInterstitial": 3,
+  "autoShowIntervalSeconds": 45,
+  "banner": {
+    "enabled": true,
+    "size": "BANNER",
+    "position": "BOTTOM",
+    "autoLoad": true
+  },
+  "levelplay": {
+    "enabled": false
+  }
+}
     },
     "trending": [
       "anime_001",
