@@ -20,7 +20,7 @@
       "sub6mSku": "com.dark.animewallpapers6",
       "sub12mSku": "com.dark.animewallpapers12"
     },
-   "ads": {
+ "ads": {
   "showAds": true,
   "appodealKey": "PUT_YOUR_APPODEAL_APP_KEY_HERE",
   "clicksBeforeInterstitial": 3,
