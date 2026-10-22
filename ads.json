@@ -31,11 +31,10 @@
     "position": "BOTTOM",
     "autoLoad": true
   },
-  "levelplay": {
-    "enabled":false
+    "levelplay": {
+    "enabled": false
   }
-}
-    },
+},
     "trending": [
       "anime_001",
       "anime_002",
@@ -452,7 +451,8 @@
             "downloadable": true,
             "premium_only": false
           }
-        ]
+         ]
       }
     ]
   }
+}
