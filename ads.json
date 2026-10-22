@@ -32,7 +32,7 @@
     "autoLoad": true
   },
   "levelplay": {
-    "enabled": false
+    "enabled":false
   }
 }
     },
