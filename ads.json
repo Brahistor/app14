@@ -22,7 +22,7 @@
     },
  "ads": {
   "showAds": true,
-  "appodealKey": "a5128b3c2809c1424311cd61b7c3e738c6ffa8c00d181224",
+  "appodealKey":"a5128b3c2809c1424311cd61b7c3e738c6ffa8c00d181224",
   "clicksBeforeInterstitial": 3,
   "autoShowIntervalSeconds": 45,
   "banner": {
@@ -32,7 +32,7 @@
     "autoLoad": true
   },
     "levelplay": {
-    "enabled": true
+    "enabled": false
   }
 },
     "trending": [
